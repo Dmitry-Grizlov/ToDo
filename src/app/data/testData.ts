@@ -164,7 +164,7 @@ export class TestData {
 
         {
             Id: 18,
-            Title: 'Помыть машину',
+            Title: 'Помыть машину, начернить колеса',
             Completed: false,
             Priority: TestData.Priorities[3],
             Category: TestData.Categories[9],
